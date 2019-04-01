@@ -1,1 +1,1 @@
-# A simple sudoku solver with no user interface. Trivial and easy to implement.
+# A simple sudoku solver with no user interface which is trivial and easy to implement.
